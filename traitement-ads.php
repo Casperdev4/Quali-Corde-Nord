@@ -74,7 +74,7 @@ try {
 
     $mail->send();
 
-    header('Location: https://cordiste-06.com/mercialdfhjdk.html');
+    header('Location: https://cordiste-59.com/mercialdfhjdk.html');
     exit();
 } catch (Exception $e) {
     echo "Message non envoyé. Erreur Mailer: {$mail->ErrorInfo}";

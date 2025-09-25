@@ -2,4 +2,4 @@ User-agent: *
 Disallow: /traitement.php
 Disallow: /traitement-ads.php
 Disallow: /mentions-legales.html
-Sitemap: https://cordiste-06.com/sitemap.xml
+Sitemap: https://cordiste-59.com/sitemap.xml
