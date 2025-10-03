@@ -64,7 +64,7 @@ try {
     $mail->Port       = 465;
 
     $mail->setFrom('contact@webprime.fr', 'Quali Corde');
-    $mail->addAddress('contacts@quali-corde.com');
+    $mail->addAddress('contact@quali-corde.com');
     $mail->addAddress('webprime91@hotmail.com');
     $mail->CharSet = 'UTF-8';
     $mail->isHTML(true);
